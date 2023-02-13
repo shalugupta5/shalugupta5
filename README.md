@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shalu1789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shalu1789" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/km-shalu-gupta-110207247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="km-shalu-gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/shalugupta6046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shalugupta6046" height="30" width="40" /></a>
+
 <a href="https://leetcode.com/shalug12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shalug12" height="30" width="40" /></a>
 </p>
 
