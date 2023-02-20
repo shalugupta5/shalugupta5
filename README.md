@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **JAVA | JavaScript | HTML | CSS | MYSQL**
 
 - 📫 How to reach me **shalug123456@gmail.com**
-- <a href="https://www.linkedin.com/in/km-shalu-gupta-110207247/" target="blank">You can find my projects here.</a>
+- <a href="https://shalugupta5.github.io/" target="blank">You can find my projects here.</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
