@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 -🌱 I’m currently learning JAVA | JavaScript | HTML | CSS | MYSQL
 
 - 📫 How to reach me **shalug123456@gmail.com**
-- You can find my projects<a href="https://shalugupta5.github.io/" target="blank"> here.</a>
+
+- You can find my projects<a href="https://shalugupta5.github.io/" target="blank"> - **[Here](https://shalugupta5.github.io/)**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
