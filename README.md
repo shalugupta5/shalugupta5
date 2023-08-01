@@ -3,8 +3,12 @@
   <img src="https://github.com/shalugupta5/shalugupta5/assets/112753764/7216a0bf-f39a-402a-97c2-406d683032ef" alt="My Banner">
 </p>
 
+
 # 💫 About Me:
-Hi there 👋, I'm Shalu Gupta, a passionate software developer from India 💻.<br>I am a backend developer with a strong passion for coding and problem-solving. I love exploring new technologies and building web applications that make a positive impact.
+<h1 align="center">Hi 👋, I'm Shalu Gupta</h1>
+<h2 align="center">A passionate software developer from India💻</h2>
+
+I am a backend developer with a strong passion for coding and problem-solving. I love exploring new technologies and building web applications that make a positive impact.
 
 
 ## 🌐 Socials:
@@ -21,14 +25,16 @@ Hi there 👋, I'm Shalu Gupta, a passionate software developer from India 💻.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shalugupta5&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shalugupta5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shalugupta5&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shalugupta5&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
