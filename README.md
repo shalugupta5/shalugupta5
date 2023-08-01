@@ -1,3 +1,8 @@
+<!-- Your banner image and profile header -->
+<p align="center">
+  <img src="https://github.com/shalugupta5/shalugupta5/assets/112753764/7216a0bf-f39a-402a-97c2-406d683032ef" alt="My Banner">
+</p>
+
 # 💫 About Me:
 Hi there 👋, I'm Shalu Gupta, a passionate software developer from India 💻.<br>I am a backend developer with a strong passion for coding and problem-solving. I love exploring new technologies and building web applications that make a positive impact.
 
