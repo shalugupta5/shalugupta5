@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Shalu Gupta</h1>
-<h2 align="center">A passionate software developer from India💻</h2>
+<h2 align="center">A passionate software developer from India💻.</h2>
 
 I am a backend developer with a strong passion for coding and problem-solving. I love exploring new technologies and building web applications that make a positive impact.
 
